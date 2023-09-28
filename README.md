@@ -16,9 +16,8 @@
 - Collaboration d'équipe : Jira, Confluence
 
 ## 📫 Contact
-- Vous pouvez me contacter par e-mail à franck.mvondo.pro@gmail.com
-- Suivez-moi sur [LinkedIn](lien vers votre profil LinkedIn)
-- Visitez mon site web personnel : [lien vers votre site web]
+- Suivez-moi sur [LinkedIn](www.linkedin.com/in/franck-awana)
+- Visitez mon site web personnel : [ici](www.linkedin.com/in/franck-awana)
 
 <!---
 fawana/fawana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
